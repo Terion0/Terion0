@@ -38,7 +38,7 @@ Soy desarrollador full-stack con una fuerte afinidad por **C#** y el ecosistema 
 
 ## 💬 Sobre mí
 
-Antes de dedicarme a la programación, trabajé en el sector **aeroespacial** como **piloto de tuneladoras** y **técnico de calidad**. Esa etapa me enseñó el valor de la precisión, el trabajo riguroso y la importancia del trabajo en equipo.
+Antes de dedicarme a la programación, trabajé en el sector **aeroespacial** como técnico de pruebas y en el sector del metal **piloto de tuneladoras** y **técnico de ascensores de vacío**. Esa etapa me enseñó el valor de la precisión, el trabajo riguroso y la importancia del trabajo en equipo.
 
 Actualmente, me encanta desarrollar software enfocado en rendimiento, organización y sincronización en tiempo real. Me interesa aprender tecnologías nuevas, trabajar en soluciones multiplataforma y seguir creciendo como profesional.
 
