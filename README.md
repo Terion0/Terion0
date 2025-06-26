@@ -19,7 +19,7 @@ I'm a full-stack developer with a strong affinity for **C#** and the **.NET** ec
 ---
 
 ### 🧱 API  
-<img src="https://avatars.githubusercontent.com/u/25903473?s=48&v=4" width="30" title="Ocelot"/><img src="https://images.ctfassets.net/ee3ypdtck0rk/7r2BuGkFqf8FHJY4AkuW0X/68e00059f1c7d6a8a4d1800e0621f295/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e61.svg" width="30" title="SignalR"/><img src="https://help.apiary.io/images/swagger-logo.png" width="30" title="Swagger"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" title="ASP.NET Core"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="FastAPI"/><img src="https://pngate.com/wp-content/uploads/2025/05/postman-logo-astronaut-orange-circle-flat-design-1.png" width="30" title="Postman"/>
+<img src="https://avatars.githubusercontent.com/u/25903473?s=48&v=4" width="30" title="Ocelot"/><img src="https://images.ctfassets.net/ee3ypdtck0rk/7r2BuGkFqf8FHJY4AkuW0X/68e00059f1c7d6a8a4d1800e0621f295/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e61.svg" width="30" title="SignalR"/><img src="https://help.apiary.io/images/swagger-logo.png" width="30" title="Swagger"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" title="ASP.NET Core"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="FastAPI"/><img src="https://nocodestartup.io/wp-content/uploads/2024/01/postman-nocode.webp" width="30" title="Postman"/>
 
 ---
 
@@ -67,3 +67,4 @@ Currently, I love developing software focused on performance, structure, and rea
 ---
 
 Thanks for stopping by. If you’re interested in collaborating, sharing ideas, or just chatting about tech, feel free to reach out!
+
